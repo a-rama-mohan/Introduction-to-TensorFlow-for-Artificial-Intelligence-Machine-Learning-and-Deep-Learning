@@ -6,18 +6,18 @@ This is the first course out of four where TensorFlow, a popular ML framework, i
 
 ## Week 1: A New Programming Paradigm
 - A primer in machine learning
-- <a name="w1"></a> [Assignment 1 - Predicting house price.ipynb](#w1)
+- [Assignment 1 - Predicting house price.ipynb](https://github.com/a-rama-mohan/Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning/blob/main/Course%201/C1W1_Assignment.ipynb)
 
 ## Week 2: Introduction to Computer Vision
 - An introduction to computer vision
 - Writing code to load training data
 - Coding a computer vision neural network
-- <a name="w2"></a> [Assignment 2 - Classifying Fashion MNIST with MLP.ipynb](#w2)
+- [Assignment 2 - Classifying Fashion MNIST with MLP.ipynb](https://github.com/a-rama-mohan/Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning/blob/main/Course%201/C1W2_Assignment.ipynb)
 
 ## Week 3: Enhancing Vision with Convolutional Neural Networks
 - Implementing convolutional layers
 - Implementing pooling layers
-- <a name="w3"></a> [Assignment 3 - Classifying Fashion MNIST with CNN.ipynb](#w3)
+- [Assignment 3 - Classifying Fashion MNIST with CNN.ipynb](https://github.com/a-rama-mohan/Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning/blob/main/Course%201/C1W3_Assignment.ipynb)
 
 ## Week 4: Using Real-World Images
 
@@ -26,4 +26,4 @@ This is the first course out of four where TensorFlow, a popular ML framework, i
 - Training the ConvNet with fit_generator
 - Adding automatic validation to test accuracy
 - Exploring the impact of compressing images
-- <a name="w4"></a> [Assignment 4 - Classifying emotion with CNN.ipynb](#w4)
+- [Assignment 4 - Classifying emotion with CNN.ipynb](https://github.com/a-rama-mohan/Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning/blob/main/Course%201/C1W4_Assignment.ipynb)
