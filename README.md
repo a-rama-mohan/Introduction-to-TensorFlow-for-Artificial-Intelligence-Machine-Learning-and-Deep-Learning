@@ -1,6 +1,6 @@
 Credential URL: https://www.coursera.org/account/accomplishments/certificate/BFSSEUJ43BR6
 
-# Introduction to TensorFlow for AI, ML and DL
+# Course 1: Introduction to TensorFlow for AI, ML and DL
 
 This is the first course out of four where TensorFlow, a popular ML framework, is introduced. Learnt to build basic neural networks for computer vision and use convolutions to improve the neural networks.
 
